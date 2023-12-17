@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: rgba(255, 196, 196, 0.248);
+  background-image: url(C:/Users/MSI/Desktop/hzim/assets/icons/backimg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 50px;
+}
+
+h2 {
+  color: #333;
+}
+
+nav {
+  margin-top: 30px;
+}
+
+nav a {
+  text-decoration: none;
+  padding: 8px 20px;
+  margin: 0 10px;
+  border-radius: 5px;
+  background-color: #ffcc00;
+  color: #fff;
+  transition: background-color 0.3s ease;
+}
+
+nav a:hover {
+  background-color: #ff9900;
+}
+
+h2{
+  color: #ff9900;
+}
+
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+a {
+  color: rgb(255, 166, 0);
+  text-decoration: none;
+  margin-left: 20px;
+  margin-top: 40px;
+  font-size: 25px;
+}
